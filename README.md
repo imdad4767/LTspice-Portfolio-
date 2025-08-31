@@ -14,6 +14,7 @@ Professional design and comprehensive analysis of a CMOS inverter using LTspice 
 
 ### 1. DC Analysis - Voltage Transfer Characteristics (VTC)
 ![VTC Curve](VTC_CMOS_Output.png)
+![Circuit Schematic](VTC_CMOS_Output_Schematic.png)
 - Switching threshold: ~0.5V
 - VOH: ~1.0V (Logic High)
 - VOL: ~0V (Logic Low)  
@@ -21,12 +22,14 @@ Professional design and comprehensive analysis of a CMOS inverter using LTspice 
 
 ### 2. Transient Analysis - Dynamic Switching Behavior  
 ![Transient Analysis](CMOS_Transient.png)
+![Detailed Transient View](CMOS_Transient1.png)
 - Input: Square wave (0V-1V, 10ns period)
 - Output: Perfect logic inversion
 - Clean switching transitions
 
 ### 3. Power Analysis - Current and Power Consumption
 ![Power Analysis](CMOS_PowerAnalysis.png)
+![Power Consumption](CMOS_Power.png)
 - Static current: ~0A (excellent power efficiency)
 - Dynamic current spikes during switching
 - Power consumed only during transitions
